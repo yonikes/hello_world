@@ -1,2 +1,2 @@
 # hello_world
-To experience with gitHunb
+To experience with gitHub
